@@ -5,11 +5,7 @@
     <title>Trang chủ</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
     <?php $this->load->view('client/includes/css') ?>
-
-
 
 </head>
 
@@ -21,79 +17,81 @@
     <!-- end header -->
 
     <!-- start thương hiệu -->
-    <section class="cb-section">
-        <div class="container-fluid col-md-10 col-12 text-center">
-            <div class=" title-section ">
-                <div class="text-center">
-                    <h2 class="text-title">Thương hiệu Coba</h2>
-                    <hr class="line">
-                    <p>Từ tình yêu với Việt Nam và niềm đam mê cà phê, năm 1999, thương hiệu Highlands Coffee ra đời với
-                        khát vọng nâng tầm di sản cà phê lâu đời của Việt Nam và lan rộng tinh thần tự hào, kết nối hài
-                        hòa giữa truyền thống với hiện đại.
+    <section class=" col-12">
+        <div class="container py-4">
+            <div class="row py-3">
+                <div class="col-md-6 title-section">
+                    <div class="cobaAbout">
+                        <h2 class="text-title display-4">Thương hiệu Coba</h2>
+                        <hr class="line">
+                        <p>Từ tình yêu với Việt Nam và niềm đam mê cà phê, năm 1999, thương hiệu Highlands Coffee ra đời với
+                            khát vọng nâng tầm di sản cà phê lâu đời của Việt Nam và lan rộng tinh thần tự hào, kết nối hài
+                            hòa giữa truyền thống với hiện đại.
 
+                            Bắt đầu với sản phẩm cà phê đóng gói tại Hà Nội vào năm 2000, thương hiệu Highlands Coffee đã
+                            nhanh chóng phát triển và mở rộng thành thương hiệu quán cà phê nổi tiếng và không ngừng mở rộng
+                            hoạt động trong và ngoài nước từ năm 2002.</p>
 
-                        Bắt đầu với sản phẩm cà phê đóng gói tại Hà Nội vào năm 2000, thương hiệu Highlands Coffee đã
-                        nhanh chóng phát triển và mở rộng thành thương hiệu quán cà phê nổi tiếng và không ngừng mở rộng
-                        hoạt động trong và ngoài nước từ năm 2002.</p>
+                    </div>
+                    <button type="button" class="btn btn-outline-dark px-4 my-5">Tìm hiểu thêm</button>
+                </div>
+                <div class="col-md-6">
+                    <img src="assets/img/about.png" class="img-fluid pl-3" alt="">
                 </div>
             </div>
-            <div class="text-center">
-                <img src="assets/img/Picture8.png" class="img-fluid" alt="">
 
-            </div>
         </div>
 
     </section>
     <!-- end thương hiệu -->
     <!-- start dich vụ -->
     <section class="cb-section dark">
-        <div class="container">
-            <div class="row title-section justify-content-center">
-                <div class="col-md-12 text-center">
-                    <h2 class="text-title">Dịch vụ của chúng tôi</h2>
-                    <hr class="line">
-                    <p>Ngoài cung cấp những hạt cà phê chất lượng chúng tôi còn phục vụ các dịch vụ đặc biệt</p>
-                </div>
+
+        <div class="col-12 title-section justify-content-center">
+            <div class="col-md-12 text-center">
+                <h2 class="text-title">Dịch vụ của chúng tôi</h2>
+                <hr class="line">
+                <p>Ngoài cung cấp những hạt cà phê chất lượng chúng tôi còn phục vụ các dịch vụ đặc biệt</p>
             </div>
-            <div class="container-fluid">
-                <div class="site-slide-services px-md-2 px-4">
-                    <div class="col-12 slide-services justify-content-center">
-                        <div class="col-md-4 services">
-                            <a href="#">
-                                <img src="assets/img/services/dv1.jpg" alt="">
-                                <p></p>
-                            </a>
-
-                        </div>
-                        <div class="col-md-4 services">
-                            <a href="#">
-                                <img src="assets/img/services/dv2.jpg" alt="">
-                                <p></p>
-                            </a>
-                        </div>
-                        <div class="col-md-4 services ">
-                            <a href="#">
-                                <img src="assets/img/services/dv3.jpg" alt="">
-                                <p></p>
-                            </a>
-                        </div>
-                        <div class="col-md-4 services ">
-                            <a href="#">
-                                <img src="assets/img/services/dv4.jpg" alt="">
-                                <p></p>
-                            </a>
-                        </div>
+        </div>
+        <div class="container-fluid">
+            <div class="site-slide-services">
+                <div class="slide-services regular slider justify-content-center">
+                    <div class="col-md-4 services">
+                        <a href="#">
+                            <img src="assets/img/services/dv1.jpg" alt="">
+                            <p></p>
+                        </a>
 
                     </div>
-                    <div class="slider-services-btn">
-                        <span class="prev position-top left-0"><i class="fas fa-angle-left fa-2x"></i></span>
-                        <span class="next position-top right-0"><i class="fas fa-angle-right fa-2x"></i></span>
-
+                    <div class="col-md-4 services">
+                        <a href="#">
+                            <img src="assets/img/services/dv2.jpg" alt="">
+                            <p></p>
+                        </a>
                     </div>
+                    <div class="col-md-4 services ">
+                        <a href="#">
+                            <img src="assets/img/services/dv3.jpg" alt="">
+                            <p></p>
+                        </a>
+                    </div>
+                    <div class="col-md-4 services ">
+                        <a href="#">
+                            <img src="assets/img/services/dv4.jpg" alt="">
+                            <p></p>
+                        </a>
+                    </div>
+
                 </div>
+
+            
 
 
             </div>
+
+
+
         </div>
 
     </section>
@@ -486,7 +484,6 @@
                     </div>
                     <div class="noiDungQuaTrinhPhatTrien">
                         <div class="line2">
-
                         </div>
 
                         <p class="p1">
@@ -609,13 +606,13 @@
                     <div id="slideCupping" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-interval="10000">
-                                <img src="assets/img/anh bia/b1.jpg" class="d-block w-100" alt="...">
+                                <div class="cobaSliderTop" style="background-image: url('assets/img/San pham/bg_1.jpg')"></div>
                             </div>
                             <div class="carousel-item" data-interval="2000">
-                                <img src="assets/img/anh bia/b2.jpg" class="d-block w-100" alt="...">
+                                <div class="cobaSliderTop" style="background-image: url('assets/img/San pham/bg_1.jpg')"></div>
                             </div>
                             <div class="carousel-item">
-                                <img src="assets/img/anh bia/b3.jpg" class="d-block w-100" alt="...">
+                                <div class="cobaSliderTop" style="background-image: url('assets/img/San pham/bg_1.jpg')"></div>
                             </div>
                         </div>
                         <a class="carousel-control-prev" href="#slideCupping" role="button" data-slide="prev">
@@ -643,7 +640,80 @@
         </div>
     </div>
     <?php $this->load->view('client/includes/js') ?>
+    <script>
+        $(window).load(function() {
 
+            $('.sldr').each(function() {
+                var th = $(this);
+                th.sldr({
+                    focalClass: 'focalPoint',
+                    offset: th.width() / 2,
+                    sldrWidth: 'responsive',
+                    nextSlide: th.nextAll('.sldr-nav.next:first'),
+                    previousSlide: th.nextAll('.sldr-nav.prev:first'),
+                    selectors: th.nextAll('.selectors:first').find('li'),
+                    toggle: th.nextAll('.captions:first').find('div'),
+                    sldrInit: sliderInit,
+                    sldrStart: slideStart,
+                    sldrComplete: slideComplete,
+                    sldrLoaded: sliderLoaded,
+                    sldrAuto: true,
+                    sldrTime: 5000,
+                    hasChange: true
+                });
+            });
+
+        });
+
+        /**
+         * Sldr Callbacks
+         */
+
+        /**
+         * When the sldr is initiated, before the DOM is manipulated
+         * @param {object} args the slides, callback, and config of the slider
+         * @return null
+         */
+        function sliderInit(args) {
+
+        }
+
+        /**
+         * When individual slides are loaded
+         * @param {object} args the slides, callback, and config of the slider
+         * @return null
+         */
+        function slideLoaded(args) {
+
+        }
+
+        /**
+         * When the full slider is loaded, after the DOM is manipulated
+         * @param {object} args the slides, callback, and config of the slider
+         * @return null
+         */
+        function sliderLoaded(args) {
+
+        }
+
+        /**
+         * Before the slides change focal points
+         * @param {object} args the slides, callback, and config of the slider
+         * @return null
+         */
+        function slideStart(args) {
+
+        }
+
+        /**
+         * After the slides are done changing focal points
+         * @param {object} args the slides, callback, and config of the slider
+         * @return null
+         */
+        function slideComplete(args) {
+
+        }
+    </script>
 </body>
 
 </html>

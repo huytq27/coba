@@ -17,13 +17,57 @@
     --baloobahai: "baloo bhai";
     --aton: "Anton";
 }
+body, p, h1, h2,h3, h4,h5,h6, span, a, div,li{
+    font-family: var(--calibri);
+}
+.container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .nav-main{
     background-color: #e5e6e8de;
 }
 .logo{
-    color: var(--text-light-color)!important;
-    font-family: var(--baloobahai)!important;
-    font-size: 2.5em;
+    font-size: 22px;
+    line-height: 1;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    letter-spacing: 2px;
+    white-space: nowrap;
+}
+.logo small{
+    text-transform: uppercase;
+    font-size: 12px;
+    display: block;
+    text-align: center;
+    
+    letter-spacing: 5px;
+}
+.cobaNavbar{
+    background: #ffffff73 !important;
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 3;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.cobaNavbar .navbar-nav > .nav-item > .nav-link {
+    font-size: 13px;
+    padding-top: .9rem;
+    padding-bottom: .9rem;
+    padding-left: 0;
+    padding-right: 0;
+    color: #34434a;
+    font-weight: 400;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: 1 !important;
 }
 
 p{
@@ -35,10 +79,11 @@ p{
     background-color: var(--background-white);
 }
 .line{
-    background-color: var(--light-color);
-    width: 20%;
-    height: 0.2rem;
-    margin: 1.3rem auto;
+    background-color: rgb(124, 124, 124);
+    width: 35%;
+    height: 0.1rem;
+    margin-left: 3px;
+   
 }
 .text-nav{
     color: var(--text-light-color)!important;
@@ -59,7 +104,7 @@ p{
 #nav-main {
     z-index: 999999;
     
-    position: fixed; /* Make it stick/fixed */
+    /* position: fixed; Make it stick/fixed */
     top: 0; /* Stay on top */
     width: 100%; /* Full width */
     transition: top 0.7s; /* Transition effect when sliding down (and up) */
@@ -81,64 +126,8 @@ p{
   } */
 /* end hide nav scroll */
 
-/* slider-header */
-/* Stick dot */
-.slick-dots{
-    display: flex;
-    list-style-type: none;
-    justify-content: center;
-    margin: 0;
-    padding: 0;
-    position: absolute;
-    right: 50%;
-    bottom: 0.8rem;
-}
-.slick-dots li{
-    margin: 0 0.3rem;
-}
-.slick-dots button{
-    display: block;
-    width: 0.3rem;
-    text-indent: -9999px;
-    height: 0.9rem;
-    border-radius: 100%;
-    border: none;
-}
-.slick-dots .slick-active button{
-    transform: scale(1.5);
-    box-shadow: 0px 1px 5px 1px #494a47;
 
 
-}
-/* end Stick dot */
-.site-slider{
-    position: relative;
-   
-}
-.position-top{
-    position: absolute;
-    top: 30%;
-}
-.site-slider .slider-btn .prev,.site-slider .slider-btn .next,
-.site-slider-services .slider-services-btn .prev, 
-.site-slider-services .slider-services-btn .next
-
-{
-background-color: var(--bg-offwhite-color);
-padding: 1rem 1rem;
-border-radius: 1rem;
-color: var(--text-light-color);
-margin: 0 0.5rem;
-}
-/* btn service */
-
-
-.right-0{
-    right: 0rem;
-}
-.left-0{
-    left: 0rem;
-}
 #mainnav .show{
     background-color: var(--background-white);
     z-index: 9999;
@@ -151,24 +140,24 @@ margin: 0 0.5rem;
     padding: 3rem 0;
 }
 .text-title{
-font-family: var(--lobster)!important;
-font-size: 1.8em;
+/* font-family: var(--lobster)!important; */
+/* font-size: 3em; */
+font-weight: bold;
+text-transform: uppercase;
 color: var(--text-light-color);
 }
 .title-section p{
-    font-size: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    font-family: var(--calibri);
     font-style: italic;
-    color: #a0a0a0;
+    color: #030303;
+    text-align: justify;
 }
 /* end section */
 
 
 /* slider services */
-.site-slide-services{
-    position: relative;
-    height: 30%;
-}
+
 .services img{
     width: 90%;
    margin: 0 auto;
@@ -179,12 +168,7 @@ color: var(--text-light-color);
     position: relative;
 
 }
-.nav-slider-info .slider-info-btn .prev,
-.nav-slider-info .slider-info-btn .next{
 
-
-top: 30%;
-}
 
 .tab-danhmucsp .nav-pills .nav-link{
     color: var(--text-light-color);
@@ -228,13 +212,49 @@ top: 30%;
         margin-top: -16px;
         margin-bottom: -24px;
         }
+.cobaSliderTop{
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.slider {
+    width: 100%;
+    margin: 30px auto;
+}
 
+.slick-slide {
+  margin: 0px 20px;
+}
+
+.slick-slide img {
+  width: 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: rgb(255, 255, 255);
+}
+
+
+/* .slick-slide {
+  transition: all ease-in-out .3s;
+  opacity: .2;
+}
+
+.slick-active {
+  opacity: .5;
+} */
+
+.slick-current {
+  opacity: 1;
+}
 @media (max-width: 575.98px) { 
     .nav-slider-info .services{
         width: 7rem!important;
     }
     .py-5{
-        ;
+        
     }
 
  }
@@ -261,11 +281,20 @@ top: 30%;
         margin-right: auto;
         margin-left: auto;
     }
+    .title-section{
+        padding-top: 0rem;
+    }
 
  }
 
 /* // Medium devices (tablets, less than 992px) */
 @media (max-width: 991.98px) { 
+    .navbar-nav{
+        background-color: white;
+    }
+    .cobaNavbar{
+        background-color: white!important;
+    }
 
 }
 
@@ -273,3 +302,36 @@ top: 30%;
 @media (max-width: 1199.98px) { 
 
  }
+ /* // Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) {
+     
+  }
+ 
+ /* // Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) {
+    .cobaNavbar .navbar-nav > .nav-item > .nav-link {
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;
+        padding-left: 20px;
+        padding-right: 20px;
+        color: #34434a;
+    }
+    .logo{
+        color: #34434a;
+        transition: .3s all ease;
+    }
+    .logo:hover{
+        color: #000000;
+    }
+  }
+ 
+ /* // Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) { 
+     
+  }
+ 
+ /* // Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) { 
+     
+  }
+  
