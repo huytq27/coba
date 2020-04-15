@@ -426,7 +426,7 @@
                 </tr>
                 <tr>
                     <td>
-                       Giá trị thặng dư
+                        Giá trị thặng dư
 
                     </td>
                     <td>
@@ -436,21 +436,21 @@
                 </tr>
                 <tr>
                     <td>
-                    Hoạt động thực tiễn là hoạt động vật chất của con người tác động vào thế giới khách quan bao gồm những thình thức nào?
+                        Hoạt động thực tiễn là hoạt động vật chất của con người tác động vào thế giới khách quan bao gồm những thình thức nào?
 
                     </td>
                     <td>
-                    Hoạt động sản xuất vật chất, hoạt động chính trị -xã hội, hoạt động thực nghiệm
+                        Hoạt động sản xuất vật chất, hoạt động chính trị -xã hội, hoạt động thực nghiệm
 
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Ra đời trong quá trình khai thác thuộc địa lần I của Pháp; sau chiến tranh thế giới thứ nhất phát triển rất nhanh. Tuy ít về số lượng, ra đời muộn so với giai cấp công nhân châu Âu, đời sống gắn với sản xuất công nghiệp, họ là đại biểu của phương thức sản xuất tiên tiến nhất”.Đây là quan điểm nhằm chỉ giai cấp, tầng lớp nà
+                        Ra đời trong quá trình khai thác thuộc địa lần I của Pháp; sau chiến tranh thế giới thứ nhất phát triển rất nhanh. Tuy ít về số lượng, ra đời muộn so với giai cấp công nhân châu Âu, đời sống gắn với sản xuất công nghiệp, họ là đại biểu của phương thức sản xuất tiên tiến nhất”.Đây là quan điểm nhằm chỉ giai cấp, tầng lớp nà
 
                     </td>
                     <td>
-                    Tư sản Việt Nam
+                        Tư sản Việt Nam
 
                     </td>
                 </tr>
@@ -466,79 +466,79 @@
                 </tr>
                 <tr>
                     <td>
-                        
-                    Chính sách nhất quán của nhà nước xã hội chủ nghĩa đối với tôn giáo là gì?
+
+                        Chính sách nhất quán của nhà nước xã hội chủ nghĩa đối với tôn giáo là gì?
                     </td>
                     <td>
-                    Tôn trọng và bảo đảm quyền tự do tín ngưỡng và không tín ngưỡng của mọi công dân
+                        Tôn trọng và bảo đảm quyền tự do tín ngưỡng và không tín ngưỡng của mọi công dân
 
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Thời kỳ quá độ lên chủ nghĩa xã hội diễn ra cuộc đấu tranh gay gắt giữa
+                        Thời kỳ quá độ lên chủ nghĩa xã hội diễn ra cuộc đấu tranh gay gắt giữa
                     </td>
                     <td>
-                    Một bên là giai cấp công nhân và nhân dân lao động vừa giành được chính quyền nhà nước với một bên là giai cấp bóc lột và các thế lực phản động mới bị đánh đổ
+                        Một bên là giai cấp công nhân và nhân dân lao động vừa giành được chính quyền nhà nước với một bên là giai cấp bóc lột và các thế lực phản động mới bị đánh đổ
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Nguyên nhân thất bại của các phong trào Cần Vương, nông dân Yên thế, yêu nước theo khuynh hướng dân chủ tư sản, Đông kinh nghĩa Thục, Duy Tân, Việt Nam quốc dân Đảng là g
+                        Nguyên nhân thất bại của các phong trào Cần Vương, nông dân Yên thế, yêu nước theo khuynh hướng dân chủ tư sản, Đông kinh nghĩa Thục, Duy Tân, Việt Nam quốc dân Đảng là g
                     </td>
                     <td>Bế tắc về đường lối chính trị, lỏng lẻo về tổ chức, không có cơ sở rộng rãi trong quần chúng.</td>
                 </tr>
                 <tr>
                     <td>
-                    Hàng hóa có mấy thuộc tính
+                        Hàng hóa có mấy thuộc tính
                     </td>
                     <td>
-                       2
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Một trong những quan điểm của Hồ Chí Minh khẳng định: Muốn cách mạng thành công phải có...
-                    </td>
-                    <td>
-                    Sự lãnh đạo của Đảng cách mạng theo Chủ nghĩa Mác – Lênin.
+                        2
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Điền từ còn thiếu vào chỗ trống : "Tôn giáo là một hình thái ý thức – xã hội phản ánh một cách hoang đường, hư ảo ............... khách quan. Qua sự phản ánh của tôn giáo, những sức mạnh tự phát trong tự nhiên và xã hội đều trở thành thần bí.
+                        Một trong những quan điểm của Hồ Chí Minh khẳng định: Muốn cách mạng thành công phải có...
                     </td>
                     <td>
-                    Hiện thực
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Nền văn hóa Việt Nam được hình thành.....
-                    </td>
-                    <td>
-                      Thống nhất trong đa dạng
+                        Sự lãnh đạo của Đảng cách mạng theo Chủ nghĩa Mác – Lênin.
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Phương án nào sau đây KHÔNG đúng?
+                        Điền từ còn thiếu vào chỗ trống : "Tôn giáo là một hình thái ý thức – xã hội phản ánh một cách hoang đường, hư ảo ............... khách quan. Qua sự phản ánh của tôn giáo, những sức mạnh tự phát trong tự nhiên và xã hội đều trở thành thần bí.
                     </td>
                     <td>
-                    Cần cù vốn là bản chất của người lao động và là truyền thống riêng biệt của dân tộc Việt Nam
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Hồ Chí Minh đọc bản “Sơ thảo lần thứ nhất Luận cương của Lênin về vấn đề dân tộc và thuộc địa” vào thời gian nào
-                    </td>
-                    <td>
-                    Tháng 7 năm 1920.
+                        Hiện thực
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Nguồn gốc hình thành nên tôn giáo là gì?
+                        Nền văn hóa Việt Nam được hình thành.....
+                    </td>
+                    <td>
+                        Thống nhất trong đa dạng
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Phương án nào sau đây KHÔNG đúng?
+                    </td>
+                    <td>
+                        Cần cù vốn là bản chất của người lao động và là truyền thống riêng biệt của dân tộc Việt Nam
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Hồ Chí Minh đọc bản “Sơ thảo lần thứ nhất Luận cương của Lênin về vấn đề dân tộc và thuộc địa” vào thời gian nào
+                    </td>
+                    <td>
+                        Tháng 7 năm 1920.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Nguồn gốc hình thành nên tôn giáo là gì?
                     </td>
                     <td>
                         Do niềm tin vào cái siêu nhiên
@@ -546,549 +546,343 @@
                 </tr>
                 <tr>
                     <td>
-                    Tư tưởng về chí công vô tư được thể hiện rõ nét nhất trong nội dung nào của hệ thống tư tưởng Hồ Chí Minh?
+                        Tư tưởng về chí công vô tư được thể hiện rõ nét nhất trong nội dung nào của hệ thống tư tưởng Hồ Chí Minh?
                     </td>
                     <td>
-                    Tư tưởng về đạo đức cách mạng.
+                        Tư tưởng về đạo đức cách mạng.
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Mối quan hệ biện chứng giữa lực lượng sản xuất và quan hệ sản xuất trong quy luật phát triển xã hội được thể hiện như thế nào
                     </td>
                     <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
+                        Lực lượng sản xuất quyết định quan hệ sản xuất, quan hệ sản xuất có sự tác động trở lại đối với lực lượng sản xuất
                     </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    Câu hỏi
-                    </td>
-                    <td>
-                        Đáp án
-                    </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Đại hội đại biểu toàn quốc lần thứ mấy của Đảng chính thức ghi vào Cương lĩnh và Điều lệ Đảng: "Đảng lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động..
                     </td>
                     <td>
-                        Đáp án
+                        VII
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Các vua Hùng đã có công dựng nước, Bác cháu ta phải
                     </td>
                     <td>
-                        Đáp án
+                        cùng nhau giữ lấy nước
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Sinh ra và lớn lên trong một nước thuộc địa ½ phong kiến; kinh tế nông nghiệp lạc hậu, phần lớn đảng viên của Đảng xuất thân từ giai cấp nông dân, luôn bị kẻ thù đàn áp dã man. Do đó,....…
                     </td>
                     <td>
-                        Đáp án
+                        Để giữ vững sự lãnh đạo của Đảng, bí quyết thành công của Đảng chính là luôn giữ vững bản chất giai cấp công nhân; luôn là ngọn cờ tiền phong trong cuộc đấu tranh giành độc lập dân tộc và xây dựng chủ nghĩa xã hội.
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Giai cấp nông dân tuy là lực lượng đa số trong xã hội, chịu một cổ 2 tròng. Nhưng mặt khác, ......
                     </td>
                     <td>
-                        Đáp án
+                        Họ vừa là người dân mất nước, vừa là người bị áp bức, bóc lột nặng nề nên họ rất kiên quyết cách mạng.
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Đảng ta xác định xây dựng nhà nước pháp quyền xã hội chủ nghĩa có bao nhiêu đặc trưng
                     </td>
                     <td>
-                        Đáp án
+                        6
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Động lực chủ yếu của tiến bộ xã hội là:
                     </td>
                     <td>
-                        Đáp án
+                        Sự phát triển của lực lượng sản xuất
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Yếu tố nào tạo nên cốt lõi văn hóa, là cội nguồn của chủ nghĩa yêu nước Việt Nam?
                     </td>
                     <td>
-                        Đáp án
+                        Sự gắn bó làng, xóm; nước và nhà hoà quyện với nha
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Chủ nghĩa đế quốc là gì
                     </td>
                     <td>
-                        Đáp án
+                        chính sách mở rộng quyền lực và tầm ảnh hưởng của một quốc gia thông qua hoạt động thuộc địa hóa bằng vũ lực hoặc các phương thức khác
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        “Tiền đồ cách mạng Việt Nam đen tối như không có đường ra” là câu nói của ai?
                     </td>
                     <td>
-                        Đáp án
+                        Phan Bội Châu
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Phép biện chứng duy vật có những quy luật cơ bản là
                     </td>
                     <td>
-                        Đáp án
+                        Quy luật mâu thuẫn, quy luật lượng - chất, quy luật phủ định của phủ định
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        văn hóa là sự tổng hòa của các giá trị về
                     </td>
                     <td>
-                        Đáp án
+                        vật chất và tinh thần
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    .Chủ nghĩa xã hội khoa học ra đời từ điều kiện kinh tế - xã hội nào
                     </td>
                     <td>
-                        Đáp án
+                    Sự phát triển lớn mạnh của phương thức sản xuất tư bản và sự lớn mạnh của giai cấp công nhân
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    chủ nghĩa đế quốc và các thế lực thù địch đang âm mưu chống phá việt nam bằng chiến lược nào....
                     </td>
                     <td>
-                        Đáp án
+                        Diễn biến hòa bình và bạo loạn lật đổ
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Nguyên nhân của sự phát triển trong các sự vật hiện tượng l
                     </td>
                     <td>
-                        Đáp án
+                    Do sự liên hệ tác động qua lại giữa các mặt, các yếu tố bên trong của sự vật hiện tượng
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Thực chất của đấu tranh giai cấp trong lịch sử xã hội loài người là
                     </td>
                     <td>
-                        Đáp án
+                    Đấu tranh vì lợi ích kinh tế không thể điều hòa được
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Quan điểm nào sau đây KHÔNG phải là của Hồ Chí Minh
                     </td>
                     <td>
-                        Đáp án
+                    Đảng phải thẳng thắn phê bình, tự giác nhận lỗi, không để cho dân đói, dân rét, dân nghèo và đặc biệt khi có lỗi với dân thì tự giác viết đơn nghỉ việc và nhận trách nhiệm.
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Thời kỳ quá độ lên chủ nghĩa xã hội được tính từ khi?
                     </td>
                     <td>
-                        Đáp án
+                    Cách mạng tháng Mười Nga 1917
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Chính trị xuất hiện khi nào
                     </td>
                     <td>
-                        Đáp án
+                    Khi xã hội có sự phân chia giai cấp
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Theo lý luận của chủ nghĩa Mác – Lênin, ý thức được hình thành từ các nguồn gốc
                     </td>
                     <td>
-                        Đáp án
+                    Tự nhiên,lao động và ngôn ngữ
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    “Đảng Cộng sản Việt Nam, đội tiên phong của giai cấp công nhân Việt Nam, đại biểu trung thành quyền lợi của giai cấp công nhân, nhân dân lao động và của cả dân tộc, theo chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh, là lực lượng lãnh đạo Nhà nước và xã hội. Mọi tổ chức của Đảng hoạt động trong khuôn khổ Hiến pháp và pháp luật”. Đoạn trích trên được trích tại điều mấy của Hiến pháp Việt Nam
                     </td>
                     <td>
-                        Đáp án
+                    Điều 4
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Địa hình Việt Nam có hình chữ S nằm ở phía đông bán đảo Đông Dương, giữa vùng Đông Nam á, phía Bắc giáp Trung Quốc, phía Tây giáp Lào và Campuchia, phía Đông và Nam giáp biển, các điều kiện này có khó khăn gì đối với chính trị
                     </td>
                     <td>
-                        Đáp án
+                    Dễ sảy ra xung đột lãnh thổ với các nước láng giềng.
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Tinh thần “Khai dân trí, chấn dân trí, hậu dân sinh” là tinh thần của phong trào cách mạng nào trong lịch sử Việt Nam?
                     </td>
                     <td>
-                        Đáp án
+                    Phong trào Duy tân.
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Lời dặn sau của Hồ Chí Minh: "Bất kỳ việc gì, chúng ta phải bắt đầu từ gốc, dần dần đến ngọn, từ ít đến nhiều, từ hẹp đến rộng, chớ nên tham mau, tham nhiều trong một lúc". Người đang nói đến điều gì?
                     </td>
                     <td>
-                        Đáp án
+                    Mối quan hệ giữa chính sách, quan điểm và cách thực hiện chúng
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Nguồn gốc lý luận trực tiếp hình thành nên chủ nghĩa xã hội khoa học là
                     </td>
                     <td>
-                        Đáp án
+                    Chủ nghĩa xã hội không tưởng ở Pháp
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Phương thức sản xuất tư bản chủ nghĩa phát triển dẫn đến mâu thuẫn xã hội nào cần được giải quyết ?
                     </td>
                     <td>
-                        Đáp án
+                    Mâu thuẫn giữa giai cấp vô sản và giai cấp tư sản
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    ban chấp hành trung ương khóa iX đã quyết định triển khai chỉ đạo điểm cuộc vận động nào
                     </td>
                     <td>
-                        Đáp án
+                        học tập và làm theo tấm gương đao đức Hồ Chí Minh
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Đâu là nguyên lý của phép biện chứng duy vật
                     </td>
                     <td>
-                        Đáp án
+                        Nguyên lý về sự phát triển
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Phương thức sản của một hình thái kinh tế xã hội là gì?
                     </td>
                     <td>
-                        Đáp án
+                    Cách thức tiến hành tổ chức sản xuất vật chất
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                       ...  thể hiện trên cả ba mặt .....
                     </td>
                     <td>
-                        Đáp án
+                        Kinh tế thị trường
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Phương án nào sau đây KHÔNG đúng về chế độ phong kiến Việt Nam cuối thế kỷ XVIII đến giữa thế kỷ XIX?
                     </td>
                     <td>
-                        Đáp án
+                    Từng bước thiết lập nên những chính sách mới nhằm phối hợp, đoàn kết nhân dân chống lại thực dân Pháp
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                Đảng ta chủ trương phát triển quan hệ sản xuất bằng cách
                     </td>
                     <td>
-                        Đáp án
+                    Chủ trương phát triển nền kinh tế hàng hóa nhiều thành phần vận hành theo cơ chế thị trường
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Muốn có phương thức sản xuất chủ nghĩa xã hội, hình thái kinh tế - xã hội chủ nghĩa thì chúng ta cần
                     </td>
                     <td>
-                        Đáp án
+                    Xây dựng cơ sở vật chất – kỹ thuật tương ứng
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Hàng hóa có thuộc tính cơ bản đó là:
                     </td>
                     <td>
-                        Đáp án
+                    Giá trị và giá trị sử dụng
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Giai cấp công nhân Việt Nam có sứ mệnh lịch sử to lớn la
                     </td>
                     <td>
-                        Đáp án
+                    Lãnh đạo cách mạng; đại diện phương thức sản xuất tiên tiến tiên phong trong sự nghiệp xây dựng chủ nghĩa xă hội; đi đầu trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Một trong những biện pháp để xây dựng Nhà nước pháp quyền trong hệ thống chính trị là:
                     </td>
                     <td>
-                        Đáp án
+                    Hoàn thiện hệ thống pháp luật và cơ quan lập pháp
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Trong những quy luật của phép biện chứng duy vật, quy luật nào vạch ra cách thức của sự phát triển
                     </td>
                     <td>
-                        Đáp án
+                    Quy luật lượng chất
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                       sông bạch đằng...
                     </td>
                     <td>
-                        Đáp án
+                        Hải phòng và quảng ninh
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                    Dựa trên sáng kiến vĩ đại nào để C.Mác và Ph. Engel luận giải một cách khoa học về sứ mệnh lịch sử của giai cấp công nhân
                     </td>
                     <td>
-                        Đáp án
+                    Chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        
+                    Thành phần kinh tế nhà nước hiện nay ở nước ta bao gồm. DNNN
                     </td>
                     <td>
-                        Đáp án
+                    tất cả
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    Câu hỏi
+                        Câu hỏi
                     </td>
                     <td>
                         Đáp án
                     </td>
                 </tr>
-                
+               
+
             </tbody>
         </table>
 
