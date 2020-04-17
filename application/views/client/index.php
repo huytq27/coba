@@ -17,12 +17,12 @@
     <!-- end header -->
 
     <!-- start thương hiệu -->
-    <section class=" col-12">
+    <section class=" col-12 ">
         <div class="container py-4">
             <div class="row py-3">
-                <div class="col-md-6 title-section">
+                <div class="col-md-6 title-section" data-aos="fade-up">
                     <div class="cobaAbout">
-                        <h2 class="text-title display-4">Thương hiệu Coba</h2>
+                        <h2 class="text-title coba-text-1">Thương hiệu Coba</h2>
                         <hr class="line">
                         <p>Từ tình yêu với Việt Nam và niềm đam mê cà phê, năm 1999, thương hiệu Highlands Coffee ra đời với
                             khát vọng nâng tầm di sản cà phê lâu đời của Việt Nam và lan rộng tinh thần tự hào, kết nối hài
@@ -35,7 +35,7 @@
                     </div>
                     <button type="button" class="btn btn-outline-dark px-4 my-5">Tìm hiểu thêm</button>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6" data-aos="flip-down">
                     <img src="assets/img/about.png" class="img-fluid pl-3" alt="">
                 </div>
             </div>
@@ -45,47 +45,137 @@
     </section>
     <!-- end thương hiệu -->
     <!-- start dich vụ -->
-    <section class="cb-section dark">
-
+    <section class="cb-section dark" id="dichVuCoba">
+        <div class="overlay"></div>
         <div class="col-12 title-section justify-content-center">
             <div class="col-md-12 text-center">
-                <h2 class="text-title">Dịch vụ của chúng tôi</h2>
-                <hr class="line">
-                <p>Ngoài cung cấp những hạt cà phê chất lượng chúng tôi còn phục vụ các dịch vụ đặc biệt</p>
+                <h2 class="text-title coba-text-1">Dịch vụ của chúng tôi</h2>
+                <hr class="line-center">
+                <p class="text-center title-detail">Ngoài cung cấp những hạt cà phê chất lượng chúng tôi còn phục vụ các dịch vụ đặc biệt</p>
             </div>
         </div>
-        <div class="container-fluid">
+        <div class="container-fluid ">
             <div class="site-slide-services">
                 <div class="slide-services regular slider justify-content-center">
-                    <div class="col-md-4 services">
-                        <a href="#">
-                            <img src="assets/img/services/dv1.jpg" alt="">
-                            <p></p>
-                        </a>
+                    <div class="col-md-4 services" data-aos="fade-down" data-aos-delay="0">
+                        <div class="card-bg rounded">
 
-                    </div>
-                    <div class="col-md-4 services">
-                        <a href="#">
-                            <img src="assets/img/services/dv2.jpg" alt="">
-                            <p></p>
+                        </div>
+                        <a href="#" class="dich-vu-coba">
+
+                            <div class="card" style="width:100%">
+                                <div class="card-body">
+                                    <h3>COBACOFFEE</h3>
+                                    <hr>
+                                    <h4 class="card-title">TƯ VẤN MIỄN PHÍ</h4>
+                                    <p class="card-text">
+                                        Thế nào là cà phê ngon, sạch?
+                                    </p>
+
+                                </div>
+                                <div class="w-100 px-3">
+                                    <img class="card-img-bottom rounded" src="assets/img/services/dv3.jpg" alt="Card image" style="width:100%">
+                                </div>
+
+                            </div>
                         </a>
                     </div>
-                    <div class="col-md-4 services ">
-                        <a href="#">
-                            <img src="assets/img/services/dv3.jpg" alt="">
-                            <p></p>
+                    <div class="col-md-4 services" data-aos="fade-down" data-aos-delay="200">
+                        <div class="card-bg rounded">
+
+                        </div>
+                        <a href="#" class="dich-vu-coba">
+
+                            <div class="card" style="width:100%">
+                                <div class="card-body">
+                                    <h3>COBACOFFEE</h3>
+                                    <hr>
+                                    <h4 class="card-title">TƯ VẤN MIỄN PHÍ</h4>
+                                    <p class="card-text">
+                                        Thế nào là cà phê ngon, sạch?
+                                    </p>
+
+                                </div>
+                                <div class="w-100 px-3">
+                                    <img class="card-img-bottom rounded" src="assets/img/services/dv2.jpg" alt="Card image" style="width:100%">
+                                </div>
+
+                            </div>
                         </a>
                     </div>
-                    <div class="col-md-4 services ">
-                        <a href="#">
-                            <img src="assets/img/services/dv4.jpg" alt="">
-                            <p></p>
+                    <div class="col-md-4 services" data-aos="fade-down" data-aos-delay="300">
+                        <div class="card-bg rounded">
+
+                        </div>
+                        <a href="#" class="dich-vu-coba">
+
+                            <div class="card" style="width:100%">
+                                <div class="card-body">
+                                    <h3>COBACOFFEE</h3>
+                                    <hr>
+                                    <h4 class="card-title">TƯ VẤN MIỄN PHÍ</h4>
+                                    <p class="card-text">
+                                        Thế nào là cà phê ngon, sạch?
+                                    </p>
+
+                                </div>
+                                <div class="w-100 px-3">
+                                    <img class="card-img-bottom rounded" src="assets/img/services/dv4.jpg" alt="Card image" style="width:100%">
+                                </div>
+
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4 services" data-aos="fade-down" data-aos-delay="400">
+                        <div class="card-bg rounded">
+
+                        </div>
+                        <a href="#" class="dich-vu-coba">
+
+                            <div class="card" style="width:100%">
+                                <div class="card-body">
+                                    <h3>COBACOFFEE</h3>
+                                    <hr>
+                                    <h4 class="card-title">TƯ VẤN MIỄN PHÍ</h4>
+                                    <p class="card-text">
+                                        Thế nào là cà phê ngon, sạch?
+                                    </p>
+
+                                </div>
+                                <div class="w-100 px-3">
+                                    <img class="card-img-bottom rounded" src="assets/img/services/dv3.jpg" alt="Card image" style="width:100%">
+                                </div>
+
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4 services" data-aos="fade-down" data-aos-delay="500">
+                        <div class="card-bg rounded">
+
+                        </div>
+                        <a href="#" class="dich-vu-coba">
+
+                            <div class="card" style="width:100%">
+                                <div class="card-body">
+                                    <h3>COBACOFFEE</h3>
+                                    <hr>
+                                    <h4 class="card-title">TƯ VẤN MIỄN PHÍ</h4>
+                                    <p class="card-text">
+                                        Thế nào là cà phê ngon, sạch?
+                                    </p>
+
+                                </div>
+                                <div class="w-100 px-3">
+                                    <img class="card-img-bottom rounded" src="assets/img/services/dv2.jpg" alt="Card image" style="width:100%">
+                                </div>
+
+                            </div>
                         </a>
                     </div>
 
                 </div>
 
-            
+
 
 
             </div>
@@ -96,76 +186,86 @@
 
     </section>
     <!-- end dich vụ -->
-    <div class="cb-section">
+    <div class="cb-section gallery-block compact-gallery">
         <div class="container">
-            <div class="row title-section justify-content-center">
-                <div class="col-md-10 text-center">
-                    <h2 class="text-title">Hình ảnh thương hiệu</h2>
-                    <hr class="line">
-                    <p>Hình ảnh về thương hiệu coba</p>
+            <div class="col-12 title-section justify-content-center" data-aos="fade-in" data-aos-delay="0">
+                <div class="col-md-12 text-center">
+                    <h2 class="text-title coba-text-1">hình ảnh về thương hiệu</h2>
+                    <hr class="line-center">
+                    <p class="text-center title-detail">Ảnh nổi bật của chúng tôi</p>
                 </div>
             </div>
 
+            <!-- Hình ảnh về thương hiệu -->
+            <div class="row no-gutters my-5">
 
-            <div id="slider-infor" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#slider-infor" data-slide-to="0" class="active"></li>
-                    <li data-target="#slider-infor" data-slide-to="1"></li>
-                    <li data-target="#slider-infor" data-slide-to="2"></li>
-                </ol>
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <div class="row">
-
-                            <img src="assets/img/services/dv1.jpg" class="img-fluid  col-4 " alt="">
-                            <img src="assets/img/services/dv2.jpg" class="img-fluid col-4 " alt="">
-                            <img src="assets/img/services/dv1.jpg" class="img-fluid col-4 " alt="">
-                        </div>
-                        <div class="row mt-2">
-                            <img src="assets/img/services/dv3.jpg" class="img-fluid col-4 " alt="">
-                            <img src="assets/img/services/dv4.jpg" class="img-fluid col-4 " alt="">
-                            <img src="assets/img/services/dv1.jpg" class="img-fluid col-4 " alt="">
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="row">
-
-                            <img src="assets/img/services/dv3.jpg" class="img-fluid col-4 " alt="">
-                            <img src="assets/img/services/dv2.jpg" class="img-fluid col-4" alt="">
-                            <img src="assets/img/services/dv4.jpg" class="  col-4 w-100" alt="">
-                        </div>
-                        <div class="row mt-2 ">
-                            <img src="assets/img/services/dv1.jpg" class="img-fluid col-4 " alt="">
-                            <img src="assets/img/services/dv2.jpg" class="img-fluid col-4 " alt="">
-                            <img src="assets/img/services/dv3.jpg" class="img-fluid col-4 " alt="">
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="row">
-
-                            <img src="assets/img/services/dv2.jpg" class="img-fluid col-4 " alt="">
-                            <img src="assets/img/services/dv1.jpg" class="img-fluid col-4 " alt="">
-                            <img src="assets/img/services/dv3.jpg" class="img-fluid col-4 " alt="">
-                        </div>
-                        <div class="row mt-2">
-                            <img src="assets/img/services/dv.jpg" class="img-fluid col-4 " alt="">
-                            <img src="assets/img/services/dv4.jpg" class="img-fluid col-4 " alt="">
-                            <img src="assets/img/services/dv1.jpg" class="img-fluid col-4" alt="">
-                        </div>
-                    </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover " data-aos="flip-down" data-aos-delay="0">
+                    <a class="lightbox" href="assets/img/anhthuonghieu/anh1.jpg" data-aos="flip-down" data-aos-delay="0">
+                        <img class="img-fluid image" src="assets/img/anhthuonghieu/anh1.jpg">
+                        <span class="description">
+                            <span class="description-heading">Tiêu đề hình ảnh</span>
+                            <span class="description-body">Thông tin hình ảnh.</span>
+                        </span>
+                    </a>
                 </div>
-                <a class="carousel-control-prev" href="#slider-infor" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#slider-infor" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
-            </div>
 
+                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="100">
+                    <a class="lightbox" href="assets/img/anhthuonghieu/anh2.jpg">
+                        <img class="img-fluid image" src="assets/img/anhthuonghieu/anh2.jpg">
+                        <span class="description">
+                            <span class="description-heading">Tiêu đề hình ảnh</span>
+                            <span class="description-body">Thông tin hình ảnh..</span>
+                        </span>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="200">
+                    <a class="lightbox" href="assets/img/anhthuonghieu/anh3.jpg">
+                        <img class="img-fluid image" src="assets/img/anhthuonghieu/anh3.jpg">
+                        <span class="description">
+                            <span class="description-heading">Tiêu đề hình ảnh</span>
+                            <span class="description-body">Thông tin hình ảnh.</span>
+                        </span>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="300">
+                    <a class="lightbox" href="assets/img/anhthuonghieu/anh4.jpg">
+                        <img class="img-fluid image" src="assets/img/anhthuonghieu/anh4.jpg">
+                        <span class="description">
+                            <span class="description-heading">Tiêu đề hình ảnh</span>
+                            <span class="description-body">Thông tin hình ảnh.</span>
+                        </span>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="400">
+                    <a class="lightbox" href="assets/img/anhthuonghieu/anh5.jpg">
+                        <img class="img-fluid image" src="assets/img/anhthuonghieu/anh5.jpg">
+                        <span class="description">
+                            <span class="description-heading">Tiêu đề hình ảnh</span>
+                            <span class="description-body">Thông tin hình ảnh.</span>
+                        </span>
+                    </a>
+                </div>
+
+                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="500">
+                    <a class="lightbox" href="assets/img/anhthuonghieu/anh6.jpg">
+                        <img class="img-fluid image" src="assets/img/anhthuonghieu/anh6.jpg">
+                        <span class="description">
+                            <span class="description-heading">Tiêu đề hình ảnh</span>
+                            <span class="description-body">Thông tin hình ảnh.</span>
+                        </span>
+                    </a>
+                </div>
+
+            </div>
+            <!-- Hình ảnh về thương hiệu -->
 
         </div>
+
+
+
     </div>
 
     <div class="cb-section dark">

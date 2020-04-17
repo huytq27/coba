@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg cobaNavbar" id="nav-main">
+<nav class="navbar navbar-expand-lg cobaNavbar" id="nav-main" data-aos="fade-down">
     <div class="container">
         <a class="navbar-brand logo " href="trang-chu">CobaCoffee<small>Roastery</small></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,7 +38,7 @@
 
 
 <!-- slider first -->
-<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel" data-aos="fade-up">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
