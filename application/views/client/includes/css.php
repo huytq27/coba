@@ -22,6 +22,3 @@
 
 <link rel="stylesheet" href="assets/css/style.css">
 
-<!-- Css product -->
-<link rel="stylesheet" href="assets/css/product.css">
-<!-- ---------- -->

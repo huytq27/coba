@@ -47,7 +47,7 @@
     <!-- start dich vụ -->
     <section class="cb-section dark" id="dichVuCoba">
         <div class="overlay"></div>
-        <div class="col-12 title-section justify-content-center" data-aos="fade-left">
+        <div class="col-12 title-section justify-content-center" data-aos="fade-down">
             <div class="col-md-12 text-center">
                 <h2 class="text-title coba-text-1">Dịch vụ của chúng tôi</h2>
                 <hr class="line-center">
@@ -270,16 +270,16 @@
 
     <div class="cb-section dark">
         <div class="container">
-
+            <!-- 
             <div class="row title-section justify-content-center">
                 <div class="col-md-10 text-center">
                     <h2 class="text-title">Các danh mục sản phẩm</h2>
                     <hr class="line">
                     <p>Hình ảnh về thương hiệu coba</p>
                 </div>
-            </div>
+            </div> -->
 
-            <!-- <div class=" row d-md-flex">
+            <div class=" row d-md-flex">
 
                 <nav class="col-md-12 nav-link-wrap mb-5 tab-danhmucsp">
                     <div class="nav nav-tabs nav-pills justify-content-center" id="tab-product-list" role="tablist">
@@ -292,189 +292,291 @@
                     <div class="tab-content col-12" id="nav-tabContent">
                         <div class="tab-pane col-12 fade show active" id="nav-phin" role="tabpanel" aria-labelledby="tab-phin">
 
-                            <div class="row tabSanPham">
-                                <div class="col-md-4 d-flex ">
-                                    thẻ sản phẩm
-                                    <div class="pnlSanPham">
-                                        <img src="assets/img/logo4.png" class="logoSticked" alt="">
-                                        <div class="theSanPham">
-                                            <div class="rowThongTinSanPham">
-                                                <div class="pnlTieuDe">
-                                                    <img class="card-img-top img-fluid" src="assets/img/services/dv2.jpg" alt="Card image cap">
-                                                    <h5 class="text-center pt-2">ESPRESSO – ĐẬM MẠNH – DARK</h5>
-                                                </div>
+                            <div class="row coba-product">
+                                <div class="card col-md-4" data-aos="fade-down" data-aos-delay="0">
+                                    <h3>Coba coffee roastery</h3>
+                                    <img class="card-img-top img-fluid" src="assets/img/San pham/espresso.png" alt="Card image cap">
 
-                                                <div class="pnlMoTa px-2">
-                                                    <div class="row moTaSanPham">
-
-                                                        <p> Hương vị đậm đà, mạnh mẽ bọc phá được hương vị đặc trưng của hạt cà phê Arabica Cầu Đất được rang ở mức độ phù hợp để thuyết phục vị giác của khách
-
-                                                        </p>
-                                                    </div>
-                                                    <div class="btnMua ">
-                                                        <a href="#" class="btn btn-primary px-4"><i class="fas fa-tags"></i>320,000đ</a>
-                                                    </div>
-
-
-                                                </div>
-
-                                            </div>
-
-                                            <div class="rowChiTietSanPham col-12 p-2">
-                                                <div class="row ">
-                                                    <div class="col-6 ">
-                                                        <p class="justify-content-around"><i class="fas fa-coffee"></i><span>Hương vị:</span> Ngọt</p>
-                                                    </div>
-                                                    <div class="col-6">
-                                                        <p><i class="fas fa-chart-area"> </i><span>Vùng:</span> Đà Lạt</p>
-                                                    </div>
-                                                </div>
-                                                <div class="row ">
-                                                    <div class="col-6">
-                                                        <p> <i class="fab fa-magento"></i><span>Quy cách:</span>Phin</p>
-                                                    </div>
-                                                    <div class="col-6">
-                                                        <p> <i class="fa fa-stack-exchange"> </i><span>Loại:</span>Cà phê</p>
-
-                                                    </div>
-                                                </div>
-
-                                                <div class=" price justify-content-center">
-                                                    <p><i class="fas fa-tags px-2"></i><span>Giá: </span><span>320,000</span></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    / thẻ sản phẩm
-                                </div>
-
-                                <div class="col-md-4 d-flex">
-                                    <div class="pnlSanPham">
-                                        <img src="assets/img/logo4.png" class="logoSticked" alt="">
-                                        <div class="theSanPham">
-                                            <div class="rowThongTinSanPham">
-                                                <div class="pnlTieuDe">
-                                                    <img class="card-img-top img-fluid" src="assets/img/services/dv3.jpg" alt="Card image cap">
-                                                    <h5 class="text-center pt-2">ESPRESSO – ĐẬM MẠNH – DARK</h5>
-                                                </div>
-
-                                                <div class="pnlMoTa px-2">
-                                                    <div class="row moTaSanPham">
-
-                                                        <p> Hương vị đậm đà, mạnh mẽ bọc phá được hương vị đặc trưng của hạt cà phê Arabica Cầu Đất được rang ở mức độ phù hợp để thuyết phục vị giác của khách
-
-                                                        </p>
-                                                    </div>
-                                                    <div class="btnMua ">
-                                                        <a href="#" class="btn btn-primary px-4"><i class="fas fa-tags"></i>320,000đ</a>
-                                                    </div>
-
-
-                                                </div>
-
-                                            </div>
-
-                                            <div class="rowChiTietSanPham col-12 p-2">
-                                                <div class="row ">
-                                                    <div class="col-6 ">
-                                                        <p class="justify-content-around"><i class="fas fa-coffee"></i><span>Hương vị:</span> Ngọt</p>
-                                                    </div>
-                                                    <div class="col-6">
-                                                        <p><i class="fas fa-chart-area"> </i><span>Vùng:</span> Đà Lạt</p>
-                                                    </div>
-                                                </div>
-                                                <div class="row ">
-                                                    <div class="col-6">
-                                                        <p> <i class="fab fa-magento"></i><span>Quy cách:</span>Phin</p>
-                                                    </div>
-                                                    <div class="col-6">
-                                                        <p> <i class="fa fa-stack-exchange"> </i><span>Loại:</span>Cà phê</p>
-
-                                                    </div>
-                                                </div>
-
-                                                <div class=" price justify-content-center">
-                                                    <p><i class="fas fa-tags px-2"></i><span>Giá: </span><span>320,000</span></p>
-                                                </div>
-                                            </div>
-                                        </div>
+                                    <h5 class="text-center">ESPRESSO – ĐẬM MẠNH – DARK</h5>
+                                    <h4>phin</h4>
+                                    <p> NGỌT DỊU - HONEY <span>(250gr)</span>
+                                    </p>
+                                    <div class="pnl-gia">
+                                        <span>320,000đ</span>
                                     </div>
 
+                                    <div class=" btn-product-card text-center">
+
+                                        <a href="#"><i class="fas fa-search-plus"></i></a>
+                                        <a href="#"><i class="fas fa-cart-plus"></i></a>
+
+
+
+
+                                    </div>
                                 </div>
-                                <div class="col-md-4 d-flex">
-                                    <div class="pnlSanPham">
-                                        <img src="assets/img/logo4.png" class="logoSticked" alt="">
-                                        <div class="theSanPham">
-                                            <div class="rowThongTinSanPham">
-                                                <div class="pnlTieuDe">
-                                                    <img class="card-img-top img-fluid" src="assets/img/services/dv1.jpg" alt="Card image cap">
-                                                    <h5 class="text-center pt-2">ESPRESSO – ĐẬM MẠNH – DARK</h5>
-                                                </div>
 
-                                                <div class="pnlMoTa px-2">
-                                                    <div class="row moTaSanPham">
+                                <div class="card col-md-4" data-aos="fade-down" data-aos-delay="100">
+                                    <h3>Coba coffee roastery</h3>
+                                    <img class="card-img-top img-fluid" src="assets/img/San pham/hai-hoa.png" alt="Card image cap">
 
-                                                        <p> Hương vị đậm đà, mạnh mẽ bọc phá được hương vị đặc trưng của hạt cà phê Arabica Cầu Đất được rang ở mức độ phù hợp để thuyết phục vị giác của khách
-
-                                                        </p>
-                                                    </div>
-                                                    <div class="btnMua ">
-                                                        <a href="#" class="btn btn-primary px-4"><i class="fas fa-tags"></i>320,000đ</a>
-                                                    </div>
-
-
-                                                </div>
-
-                                            </div>
-
-                                            <div class="rowChiTietSanPham col-12 p-2">
-                                                <div class="row ">
-                                                    <div class="col-6 ">
-                                                        <p class="justify-content-around"><i class="fas fa-coffee"></i><span>Hương vị:</span> Ngọt</p>
-                                                    </div>
-                                                    <div class="col-6">
-                                                        <p><i class="fas fa-chart-area"> </i><span>Vùng:</span> Đà Lạt</p>
-                                                    </div>
-                                                </div>
-                                                <div class="row ">
-                                                    <div class="col-6">
-                                                        <p> <i class="fab fa-magento"></i><span>Quy cách:</span>Phin</p>
-                                                    </div>
-                                                    <div class="col-6">
-                                                        <p> <i class="fa fa-stack-exchange"> </i><span>Loại:</span>Cà phê</p>
-
-                                                    </div>
-                                                </div>
-
-                                                <div class=" price justify-content-center">
-                                                    <p><i class="fas fa-tags px-2"></i><span>Giá: </span><span>320,000</span></p>
-                                                </div>
-                                            </div>
-                                        </div>
+                                    <h5 class="text-center">ESPRESSO – ĐẬM MẠNH – DARK</h5>
+                                    <h4>phin</h4>
+                                    <p> NGỌT DỊU - HONEY <span>(250gr)</span>
+                                    </p>
+                                    <div class="pnl-gia">
+                                        <span>320,000đ</span>
                                     </div>
 
+                                    <div class=" btn-product-card text-center">
+
+                                        <a href="#"><i class="fas fa-search-plus"></i></a>
+                                        <a href="#"><i class="fas fa-cart-plus"></i></a>
+
+
+                                    </div>
                                 </div>
+
+
+                                <div class="card col-md-4" data-aos="fade-down" data-aos-delay="200">
+                                    <h3>Coba coffee roastery</h3>
+                                    <img class="card-img-top img-fluid" src="assets/img/San pham/honey.png" alt="Card image cap">
+
+                                    <h5 class="text-center">ESPRESSO – ĐẬM MẠNH – DARK</h5>
+                                    <h4>phin</h4>
+                                    <p> NGỌT DỊU - HONEY <span>(250gr)</span>
+                                    </p>
+                                    <div class="pnl-gia">
+                                        <span>320,000đ</span>
+                                    </div>
+
+                                    <div class=" btn-product-card text-center">
+
+                                        <a href="#"><i class="fas fa-search-plus"></i></a>
+                                        <a href="#"><i class="fas fa-cart-plus"></i></a>
+
+
+                                    </div>
+                                </div>
+
 
                             </div>
                         </div>
                         <div class="tab-pane fade" id="nav-espresso" role="tabpanel" aria-labelledby="tab-espresso">
+                            <div class="row coba-product">
+                                <div class="card col-md-4" data-aos="fade-down" data-aos-delay="0">
+                                    <h3>Coba coffee roastery</h3>
+                                    <img class="card-img-top img-fluid" src="assets/img/San pham/espresso.png" alt="Card image cap">
 
-                            espresso
+                                    <h5 class="text-center">ESPRESSO – ĐẬM MẠNH – DARK</h5>
+                                    <h4>phin</h4>
+                                    <p> NGỌT DỊU - HONEY <span>(250gr)</span>
+                                    </p>
+                                    <div class="pnl-gia">
+                                        <span>320,000đ</span>
+                                    </div>
 
+                                    <div class=" btn-product-card text-center">
+
+                                        <a href="#"><i class="fas fa-search-plus"></i></a>
+                                        <a href="#"><i class="fas fa-cart-plus"></i></a>
+
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="card col-md-4" data-aos="fade-down" data-aos-delay="100">
+                                    <h3>Coba coffee roastery</h3>
+                                    <img class="card-img-top img-fluid" src="assets/img/San pham/hai-hoa.png" alt="Card image cap">
+
+                                    <h5 class="text-center">ESPRESSO – ĐẬM MẠNH – DARK</h5>
+                                    <h4>phin</h4>
+                                    <p> NGỌT DỊU - HONEY <span>(250gr)</span>
+                                    </p>
+                                    <div class="pnl-gia">
+                                        <span>320,000đ</span>
+                                    </div>
+
+                                    <div class=" btn-product-card text-center">
+
+                                        <a href="#"><i class="fas fa-search-plus"></i></a>
+                                        <a href="#"><i class="fas fa-cart-plus"></i></a>
+
+
+                                    </div>
+                                </div>
+
+
+                                <div class="card col-md-4" data-aos="fade-down" data-aos-delay="200">
+                                    <h3>Coba coffee roastery</h3>
+                                    <img class="card-img-top img-fluid" src="assets/img/San pham/honey.png" alt="Card image cap">
+
+                                    <h5 class="text-center">ESPRESSO – ĐẬM MẠNH – DARK</h5>
+                                    <h4>phin</h4>
+                                    <p> NGỌT DỊU - HONEY <span>(250gr)</span>
+                                    </p>
+                                    <div class="pnl-gia">
+                                        <span>320,000đ</span>
+                                    </div>
+
+                                    <div class=" btn-product-card text-center">
+
+                                        <a href="#"><i class="fas fa-search-plus"></i></a>
+                                        <a href="#"><i class="fas fa-cart-plus"></i></a>
+
+
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                         <div class="tab-pane fade" id="nav-brewing" role="tabpanel" aria-labelledby="tab-brewing">
-                            brewing
+                            <div class="row coba-product">
+                                <div class="card col-md-4" data-aos="fade-down" data-aos-delay="0">
+                                    <h3>Coba coffee roastery</h3>
+                                    <img class="card-img-top img-fluid" src="assets/img/San pham/espresso.png" alt="Card image cap">
+
+                                    <h5 class="text-center">ESPRESSO – ĐẬM MẠNH – DARK</h5>
+                                    <h4>phin</h4>
+                                    <p> NGỌT DỊU - HONEY <span>(250gr)</span>
+                                    </p>
+                                    <div class="pnl-gia">
+                                        <span>320,000đ</span>
+                                    </div>
+
+                                    <div class=" btn-product-card text-center">
+
+                                        <a href="#"><i class="fas fa-search-plus"></i></a>
+                                        <a href="#"><i class="fas fa-cart-plus"></i></a>
+
+
+
+
+                                    </div>
+                                </div>
+
+                                <div class="card col-md-4" data-aos="fade-down" data-aos-delay="100">
+                                    <h3>Coba coffee roastery</h3>
+                                    <img class="card-img-top img-fluid" src="assets/img/San pham/hai-hoa.png" alt="Card image cap">
+
+                                    <h5 class="text-center">ESPRESSO – ĐẬM MẠNH – DARK</h5>
+                                    <h4>phin</h4>
+                                    <p> NGỌT DỊU - HONEY <span>(250gr)</span>
+                                    </p>
+                                    <div class="pnl-gia">
+                                        <span>320,000đ</span>
+                                    </div>
+
+                                    <div class=" btn-product-card text-center">
+
+                                        <a href="#"><i class="fas fa-search-plus"></i></a>
+                                        <a href="#"><i class="fas fa-cart-plus"></i></a>
+
+
+                                    </div>
+                                </div>
+
+
+                                <div class="card col-md-4" data-aos="fade-down" data-aos-delay="200">
+                                    <h3>Coba coffee roastery</h3>
+                                    <img class="card-img-top img-fluid" src="assets/img/San pham/honey.png" alt="Card image cap">
+
+                                    <h5 class="text-center">ESPRESSO – ĐẬM MẠNH – DARK</h5>
+                                    <h4>phin</h4>
+                                    <p> NGỌT DỊU - HONEY <span>(250gr)</span>
+                                    </p>
+                                    <div class="pnl-gia">
+                                        <span>320,000đ</span>
+                                    </div>
+
+                                    <div class=" btn-product-card text-center">
+
+                                        <a href="#"><i class="fas fa-search-plus"></i></a>
+                                        <a href="#"><i class="fas fa-cart-plus"></i></a>
+
+
+                                    </div>
+                                </div>
+                            </div>
 
 
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
-    
+    <div class="container-fuid coba-footer">
+        <div class="container pt-5">
+            <div class="row" data-aos="fade-up" data-aos-delay="0">
+                <div class="col-md-3 " >
+                    <img src="assets/img/logo.png" class="logo-coba-footer" alt="">
+                    <p><Strong>Địa chỉ:</Strong> 88 Má Hai, P.Tân Hoà, TP.Buôn Ma Thuột, Tỉnh ĐăkLăk</p>
+                    <p><Strong>Hotline:</Strong> 0949872587</p>
+                </div>
+                <div class="col-md-9">
+                    <div class="row">
+                        <div class="col-4">
+                            <h3>Menu</h3>
 
+                            <ul class="nav coba-nav-footer flex-column">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="trang-chu">Trang chủ <span class="sr-only"></span></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="san-pham">Sản phẩm</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="thong-tin">Tài liệu</a>
+                                </li>
+
+                            </ul>
+                        </div>
+
+                        <div class="col-4 " >
+                            <h3>Các dịch vụ</h3>
+                            <ul class="nav coba-nav-footer flex-column">
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="#">Dịch vụ 1</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Dịch vụ 1</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Dịch vụ 1</a>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <div class="col-4 mxh-coba" >
+                            <h3>Liên hệ</h3>
+                            <div class="w-100 d-inline" >
+
+
+                                <a target="blank" href="https://www.facebook.com/Coba.Coffee.Roastery.2016">
+                                    <span class="fab fa-facebook-f"></span></a>
+
+                                <a href="https://www.instagram.com/coba.coffee.roastery" target="blank">
+                                    <span class=" fab fa-instagram"></span></a>
+
+                                <a href="#"> <span class=" far fa-envelope"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row footer-bottom">
+            <div class="container text-center">
+                <p class="my-2">Copyright <i class="far fa-copyright"></i> 2020 By QUANG HUY</p>
+            </div>
+
+
+        </div>
     </div>
+
+
     <?php $this->load->view('client/includes/js') ?>
     <script>
         $(window).load(function() {
