@@ -18,7 +18,7 @@
 <link rel="stylesheet" type="text/css" href="assets/css/indexstyle.css">
 <link rel="stylesheet" type="text/css" href="assets/css/navstyle.css">
 <link rel="stylesheet" type="text/css" href="assets/css/baguetteBox.min.css">
-
+<link rel="icon" href="assets/img/icon/logotitle.png" />
 
 <link rel="stylesheet" href="assets/css/style.css">
 

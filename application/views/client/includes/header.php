@@ -1,27 +1,30 @@
+<button id="back-to-top-btn">
+  <i class="fas fa-angle-double-up"></i>
+</button>
 <nav class="navbar navbar-expand-lg cobaNavbar" id="nav-main" data-aos="fade-down">
-    <div class="container">
-        <a class="navbar-brand logo " href="trang-chu">CobaCoffee<small>Roastery</small></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="fas fa-bars"> </span>
-        </button>
-        <div class="collapse justify-content-end navbar-collapse" id="navbarNavDropdown">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link text-nav" href="trang-chu">Trang chủ <span class="sr-only"></span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-nav" href="san-pham">Sản phẩm</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-nav" href="dich-vu">Dịch vụ</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-nav" href="thong-tin">Tài liệu</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-nav" href="lien-he">Liên hệ</a>
-                </li>
-                <!-- <li class="nav-item dropdown text-nav">
+  <div class="container">
+    <a class="navbar-brand logo " href="trang-chu">CobaCoffee<small>Roastery</small></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="fas fa-bars"> </span>
+    </button>
+    <div class="collapse justify-content-end navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link text-nav" href="trang-chu">Trang chủ <span class="sr-only"></span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-nav" href="san-pham">Sản phẩm</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-nav" href="dich-vu">Dịch vụ</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-nav" href="thong-tin">Tài liệu</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-nav" href="lien-he">Liên hệ</a>
+        </li>
+        <!-- <li class="nav-item dropdown text-nav">
                     <a class="nav-link dropdown-toggle text-nav" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Dropdown link
                     </a>
@@ -31,9 +34,9 @@
                         <a class="dropdown-item text-nav" href="#">Something else here</a>
                     </div>
                 </li> -->
-            </ul>
-        </div>
+      </ul>
     </div>
+  </div>
 </nav>
 
 

@@ -1,28 +1,29 @@
 <!DOCTYPE html>
 <html>
 
-    <head>
-        <title>Liên hệ</title>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        
-        <?php $this->load->view('client/includes/css') ?>
-    </head>
-    <body>
-<!-- start header-->
- <?php $this->load->view('client/includes/header') ?> 
-<!--end header-->
-<div class="col-12 tex-center text-title">
-    
-    Trang liên hệ
-    
-</div>
-<div class="cb-section">
+<head>
+    <title>Liên hệ</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <?php $this->load->view('client/includes/css') ?>
+</head>
+
+<body>
+    <!-- start header-->
+    <?php $this->load->view('client/includes/header') ?>
+    <!--end header-->
+    <div class="col-12 tex-center text-title">
+
+        Trang liên hệ
+
+    </div>
+    <div class="cb-section">
         <div class="container py-5">
             <!-- Vùng nguyên liệu -->
             <div class="row py-5">
-                <div class="col-md-4">
+                <div class="col-lg-4">
                     <div class="row title-section  pt-5">
                         <div class="col-md-10">
                             <h2 class="text-title">Farm – Vùng nguyên liệu</h2>
@@ -43,7 +44,7 @@
                     </div>
 
                 </div>
-                <div class="col-md-8">
+                <div class="col-lg-8">
                     <div id="slideFarm" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-interval="10000">
@@ -69,31 +70,8 @@
             </div>
             <!-- /Vùng nguyên liệu -->
             <!-- Sơ chế processing -->
-            <div class="row py-5">
-                <div class="col-md-8">
-                    <div id="slideProcessing" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
-                        <div class="carousel-inner">
-                            <div class="carousel-item active" data-interval="10000">
-                                <img src="assets/img/anh bia/b3.jpg" class="d-block w-100" alt="...">
-                            </div>
-                            <div class="carousel-item" data-interval="2000">
-                                <img src="assets/img/anh bia/b2.jpg" class="d-block w-100" alt="...">
-                            </div>
-                            <div class="carousel-item">
-                                <img src="assets/img/anh bia/b1.jpg" class="d-block w-100" alt="...">
-                            </div>
-                        </div>
-                        <a class="carousel-control-prev" href="#slideProcessing" role="button" data-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" href="#slideProcessing" role="button" data-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Next</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-4">
+            <div class="row py-5 row-reverse">
+                <div class="col-lg-4">
                     <div class="row title-section  pt-5">
                         <div class="col-md-10">
                             <h2 class="text-title">Sơ chế - Processing</h2>
@@ -117,11 +95,35 @@
                         <button type="button" class="btn btn-outline-info mt-3 ml-3">Xem chi tiết</button>
                     </div>
                 </div>
+                <div class="col-lg-8">
+                    <div id="slideProcessing" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active" data-interval="10000">
+                                <img src="assets/img/anh bia/b3.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item" data-interval="2000">
+                                <img src="assets/img/anh bia/b2.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="assets/img/anh bia/b1.jpg" class="d-block w-100" alt="...">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#slideProcessing" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#slideProcessing" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+
             </div>
             <!-- / Sơ chế processing -->
             <!-- xử lý lỗi -->
             <div class="row py-5 ">
-                <div class="col-md-4 ">
+                <div class="col-lg-4 ">
                     <div class="row title-section  pt-5">
                         <div class="col-md-10">
                             <h2 class="text-title">Bảo quản – lưu trữ</h2>
@@ -144,7 +146,7 @@
                     </div>
 
                 </div>
-                <div class="col-md-8">
+                <div class="col-lg-8">
                     <div id="slideXuLyLoi" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-interval="10000">
@@ -170,31 +172,8 @@
             </div>
             <!--/ xử lý lỗi -->
             <!-- Rang mộc -->
-            <div class="row py-5">
-                <div class="col-md-8">
-                    <div id="slideRoasting" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
-                        <div class="carousel-inner">
-                            <div class="carousel-item active" data-interval="10000">
-                                <img src="assets/img/anh bia/b1.jpg" class="d-block w-100" alt="...">
-                            </div>
-                            <div class="carousel-item" data-interval="2000">
-                                <img src="assets/img/anh bia/b2.jpg" class="d-block w-100" alt="...">
-                            </div>
-                            <div class="carousel-item">
-                                <img src="assets/img/anh bia/b3.jpg" class="d-block w-100" alt="...">
-                            </div>
-                        </div>
-                        <a class="carousel-control-prev" href="#slideRoasting" role="button" data-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" href="#slideRoasting" role="button" data-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Next</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-md-4">
+            <div class="row py-5  row-reverse">
+                <div class="col-lg-4">
                     <div class="row title-section  pt-5">
                         <div class="col-md-10">
                             <h2 class="text-title">Roasting- rang mộc</h2>
@@ -219,11 +198,35 @@
                         <button type="button" class="btn btn-outline-info mt-3 ml-3">Xem chi tiết</button>
                     </div>
                 </div>
+                <div class="col-lg-8">
+                    <div id="slideRoasting" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active" data-interval="10000">
+                                <img src="assets/img/anh bia/b1.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item" data-interval="2000">
+                                <img src="assets/img/anh bia/b2.jpg" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="assets/img/anh bia/b3.jpg" class="d-block w-100" alt="...">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#slideRoasting" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#slideRoasting" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+
             </div>
             <!--/ Rang mộc -->
             <!-- cupping -->
             <div class="row py-5">
-                <div class="col-md-4">
+                <div class="col-lg-4">
                     <div class="row title-section  pt-5">
                         <div class="col-md-10">
                             <h2 class="text-title">Cupping- thử nếm/kiểm định</h2>
@@ -248,7 +251,7 @@
                         <button type="button" class="btn btn-outline-info mt-3 ml-3">Xem chi tiết</button>
                     </div>
                 </div>
-                <div class="col-md-8">
+                <div class="col-lg-8">
                     <div id="slideCupping" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-interval="10000">
@@ -274,12 +277,13 @@
             </div>
             <!-- / cupping -->
         </div>
-        
-        
 
-<!--start js-->
 
-<?php $this->load->view('client/includes/js') ?>
-<!--end js-->
-    </body>
+
+        <!--start js-->
+
+        <?php $this->load->view('client/includes/js') ?>
+        <!--end js-->
+</body>
+
 </html>

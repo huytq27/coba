@@ -8,6 +8,7 @@
 <script type="text/javascript" src="assets/js/aos.js"></script>
 <script type="text/javascript" src="assets/js/baguetteBox.min.js"></script>
 
+<script type="text/javascript" src="assets/js/main.js"></script>
 <!-- play slide header -->
 <script type="text/javascript" src="assets/js/sliders.js"></script>
 <!-- end play slide header -->
@@ -15,7 +16,7 @@
     AOS.init({
         easing: 'ease-in-out-sine',
         offset: 200,
-        duration: 500
+        duration: 1000
     });
     // AOS.init({
     //     easing: 'ease-in-out-sine'
