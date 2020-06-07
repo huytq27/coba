@@ -2,9 +2,9 @@
 <html>
 
 <head>
-    <title>Trang chủ</title>
+    <title>Coba coffee & roastery</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <?php $this->load->view('client/includes/css') ?>
 
 </head>
