@@ -10,7 +10,7 @@
 <link rel="stylesheet" type="text/css" href="assets/css/slick.css" />
 <link rel="stylesheet" type="text/css" href="assets/css/slick-theme.css" />
 
-<link rel="stylesheet" type="text/css" href="assets/css/animate.css" />
+<!-- <link rel="stylesheet" type="text/css" href="assets/css/animate.css" /> -->
 
 <link rel="stylesheet" type="text/css" href="assets/css/w3.css">
 <link rel="stylesheet" type="text/css" href="assets/css/aos.css">

@@ -24,11 +24,11 @@
                     <div class="cobaAbout">
                         <h2 class="text-title coba-text-1">Thương hiệu Coba</h2>
                         <hr class="line">
-                        <p>Từ tình yêu với Việt Nam và niềm đam mê cà phê, năm 1999, thương hiệu Highlands Coffee ra đời với
+                        <p>Từ tình yêu với Việt Nam và niềm đam mê cà phê, năm 1999, thương hiệu coba coffee ra đời với
                             khát vọng nâng tầm di sản cà phê lâu đời của Việt Nam và lan rộng tinh thần tự hào, kết nối hài
                             hòa giữa truyền thống với hiện đại.
 
-                            Bắt đầu với sản phẩm cà phê đóng gói tại Hà Nội vào năm 2000, thương hiệu Highlands Coffee đã
+                            Bắt đầu với sản phẩm cà phê đóng gói tại Hà Nội vào năm 2000, thương hiệu coba coffee đã
                             nhanh chóng phát triển và mở rộng thành thương hiệu quán cà phê nổi tiếng và không ngừng mở rộng
                             hoạt động trong và ngoài nước từ năm 2002.</p>
 
@@ -36,7 +36,7 @@
                     <button type="button" class="btn btn-outline-dark px-4 my-5">Tìm hiểu thêm</button>
                 </div>
                 <div class="col-md-6" data-aos="flip-down">
-                    <img src="assets/img/about.png" class="img-fluid pl-3" alt="">
+                    <img src="assets/img/about.jpg  " class="img-fluid pl-3" alt="">
                 </div>
             </div>
 
@@ -199,8 +199,8 @@
             <!-- Hình ảnh về thương hiệu -->
             <div class="row no-gutters my-5">
 
-                <div class="col-md-6 col-lg-4 item zoom-on-hover " data-aos="flip-down" data-aos-delay="0">
-                    <a class="lightbox" href="assets/img/anhthuonghieu/anh1.jpg" data-aos="flip-down" data-aos-delay="0">
+                <div class="col-md-6 col-lg-4 item zoom-on-hover " data-aos="flip-down" data-aos-delay="0" data-aos-anchor-placement="center-bottom">
+                    <a class="lightbox" href="assets/img/anhthuonghieu/anh1.jpg" >
                         <img class="img-fluid image" src="assets/img/anhthuonghieu/anh1.jpg">
                         <span class="description">
                             <span class="description-heading">Tiêu đề hình ảnh</span>
@@ -209,7 +209,7 @@
                     </a>
                 </div>
 
-                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="100">
+                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="0" data-aos-anchor-placement="center-bottom">
                     <a class="lightbox" href="assets/img/anhthuonghieu/anh2.jpg">
                         <img class="img-fluid image" src="assets/img/anhthuonghieu/anh2.jpg">
                         <span class="description">
@@ -219,7 +219,7 @@
                     </a>
                 </div>
 
-                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="200">
+                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="0" data-aos-anchor-placement="center-bottom">
                     <a class="lightbox" href="assets/img/anhthuonghieu/anh3.jpg">
                         <img class="img-fluid image" src="assets/img/anhthuonghieu/anh3.jpg">
                         <span class="description">
@@ -229,7 +229,7 @@
                     </a>
                 </div>
 
-                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="300">
+                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="0" data-aos-anchor-placement="center-bottom">
                     <a class="lightbox" href="assets/img/anhthuonghieu/anh4.jpg">
                         <img class="img-fluid image" src="assets/img/anhthuonghieu/anh4.jpg">
                         <span class="description">
@@ -239,7 +239,7 @@
                     </a>
                 </div>
 
-                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="400">
+                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="0" data-aos-anchor-placement="center-bottom">
                     <a class="lightbox" href="assets/img/anhthuonghieu/anh5.jpg">
                         <img class="img-fluid image" src="assets/img/anhthuonghieu/anh5.jpg">
                         <span class="description">
@@ -249,7 +249,7 @@
                     </a>
                 </div>
 
-                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="500">
+                <div class="col-md-6 col-lg-4 item zoom-on-hover" data-aos="flip-down" data-aos-delay="0" data-aos-anchor-placement="center-bottom">
                     <a class="lightbox" href="assets/img/anhthuonghieu/anh6.jpg">
                         <img class="img-fluid image" src="assets/img/anhthuonghieu/anh6.jpg">
                         <span class="description">
@@ -509,22 +509,22 @@
     </div>
 
     <div class="cb-section pnl-quytrinh">
-        <div class="container py-5"  data-aos="zoom-in" data-aos-delay="200">
+        <div class="container py-5">
             <!-- Vùng nguyên liệu -->
             <div class="row py-5">
-                <div class="col-lg-4">
-                    <div class="row title-section  pt-5">
+                <div class="col-lg-4"  data-aos="fade-down">
+                    <div class="row title-section  pt-5" data-aos-delay="200">
                         <div class="col-md-10">
                             <h2 class="text-title">Farm – Vùng nguyên liệu</h2>
                             <p><span>&#10077</span> slogan <span>&#10078</span></p>
                         </div>
                     </div>
-                    <div class="noiDungQuaTrinhPhatTrien">
+                    <div class="noiDungQuaTrinhPhatTrien" data-aos-delay="250">
                         <div class="line2">
 
                         </div>
 
-                        <p class="p1">
+                        <p class="p1" >
                             Nông trại cà phê của CCR nằm tọa lạc tại vùng cao nguyên Buôn Ma Thuột - Đăk Lăk,
                             Đà Lạt – Lâm đồng, Đăk Nông, Gia Lai với độ cao 600-2000m so với mực nước biển,
                             khí hậu quanh năm đều mát mẻ, thổ nhưỡng thích hợp và có điều kiện tốt nhất cho các giống cà phê Việt Nam phát triển tối ưu.
@@ -533,7 +533,7 @@
                     </div>
 
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-8"  data-aos="fade-up" data-aos-delay="100">
                     <div id="slideFarm" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-interval="10000">
@@ -559,9 +559,9 @@
             </div>
             <!-- /Vùng nguyên liệu -->
             <!-- Sơ chế processing -->
-            <div class="row py-5 row-reverse"  data-aos="zoom-out" data-aos-delay="200">
-                <div class="col-lg-4">
-                    <div class="row title-section  pt-5" >
+            <div class="row py-5 row-reverse" >
+                <div class="col-lg-4"data-aos="fade-down" data-aos-delay="100">
+                    <div class="row title-section  pt-5">
                         <div class="col-md-10">
                             <h2 class="text-title">Sơ chế - Processing</h2>
                             <p><span>&#10077</span> slogan <span>&#10078</span></p>
@@ -584,7 +584,7 @@
                         <button type="button" class="btn btn-outline-info my-3 ml-3">Xem chi tiết</button>
                     </div>
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
                     <div id="slideProcessing" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-interval="10000">
@@ -611,8 +611,8 @@
             </div>
             <!-- / Sơ chế processing -->
             <!-- xử lý lỗi -->
-            <div class="row py-5 "  data-aos="zoom-out" data-aos-delay="200">
-                <div class="col-lg-4 ">
+            <div class="row py-5 " >
+                <div class="col-lg-4 " data-aos="fade-down" data-aos-delay="100">
                     <div class="row title-section  pt-5">
                         <div class="col-md-10">
                             <h2 class="text-title">Bảo quản – lưu trữ</h2>
@@ -635,7 +635,7 @@
                     </div>
 
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
                     <div id="slideXuLyLoi" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-interval="10000">
@@ -661,8 +661,8 @@
             </div>
             <!--/ xử lý lỗi -->
             <!-- Rang mộc -->
-            <div class="row py-5  row-reverse"  data-aos="fade-in" data-aos-delay="200">
-                <div class="col-lg-4">
+            <div class="row py-5  row-reverse" >
+                <div class="col-lg-4" data-aos="fade-down" data-aos-delay="100">
                     <div class="row title-section  pt-5">
                         <div class="col-md-10">
                             <h2 class="text-title">Roasting- rang mộc</h2>
@@ -687,7 +687,7 @@
                         <button type="button" class="btn btn-outline-info my-3 ml-3">Xem chi tiết</button>
                     </div>
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
                     <div id="slideRoasting" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-interval="10000">
@@ -714,8 +714,8 @@
             </div>
             <!--/ Rang mộc -->
             <!-- cupping -->
-            <div class="row py-5"  data-aos="zoom-in" data-aos-delay="200">
-                <div class="col-lg-4">
+            <div class="row py-5" >
+                <div class="col-lg-4" data-aos="fade-down" data-aos-delay="100">
                     <div class="row title-section  pt-5">
                         <div class="col-md-10">
                             <h2 class="text-title">Cupping- thử nếm/kiểm định</h2>
@@ -740,7 +740,7 @@
                         <button type="button" class="btn btn-outline-info my-3 ml-3">Xem chi tiết</button>
                     </div>
                 </div>
-                <div class="col-lg-8">
+                <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
                     <div id="slideCupping" class="carousel slide slideQuaTrinhPhatTrien" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-interval="10000">
