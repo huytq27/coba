@@ -10,7 +10,7 @@
 
     gtag('config', 'UA-168810108-1');
 </script>
-
+<meta name="msapplication-TileColor" content="#3A3A3A" />
 
 <!-- Meta -->
 <meta name="DC.title" content="Cobacoffeeroastery, ca phe buon ma thuot, cà phê bmt,cà phê đắk lắk, Cà phê co ba, ca phe coba ,ca phe dak lak" />
@@ -37,6 +37,11 @@
 <link rel="stylesheet" type="text/css" href="assets/css/indexstyle.css">
 <link rel="stylesheet" type="text/css" href="assets/css/navstyle.css">
 <link rel="stylesheet" type="text/css" href="assets/css/baguetteBox.min.css">
-<link rel="icon" href="assets/img/icon/logotitle.png" />
+
 
 <link rel="stylesheet" href="assets/css/style.css">
+
+<link rel="shortcut icon" href="assets/img/icon/logotitle.png" />
+<link rel="icon" href="assets/img/icon/logotitle.png" />
+<link rel="apple-touch-icon" href="assets/img/icon/logotitle.png" />
+<link rel="apple-touch-icon-precomposed" href="assets/img/icon/logotitle.png" />
